@@ -916,3 +916,4 @@ if __name__ == "__main__":
         optimizer.export_geojson(pareto_solutions)
 
         print(f"\nГород {city_name} обработан!\n")
+
